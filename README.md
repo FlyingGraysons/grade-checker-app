@@ -2,7 +2,7 @@
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
-It is an application wrapper for the website [wildermuth.net]("wildermuth.net" https://wildermuth.net), a grade storing and checking web app.
+It is an application wrapper for the website [wildermuth.net](https://wildermuth.net), a grade storing and checking web app.
 
 ## To Use
 
